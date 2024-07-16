@@ -1,5 +1,7 @@
 # cognizant-AI-virtual-internship
 It includes task done during the cognizant ai virtual job simulation regarding data science.
+
+
 Task One: Exploratory Data Analysis
 
 • Analysed sales data via Python.
