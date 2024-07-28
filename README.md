@@ -18,6 +18,3 @@ Task Three: Model Building and Interpretation
 
 • Used Python to build a data model.
 
-Task Four: Machine Learning Production.
-
-• Wrote a Python module to train a model and output performance metrics.
